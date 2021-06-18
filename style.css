@@ -1,0 +1,21 @@
+.row {
+  padding-left: 150px;
+  padding-top: 50px;
+}
+.buy {
+  background-image: linear-gradient(grey, black);
+  color: white;
+  padding: 8px;
+  border-radius: 5px;
+}
+.container-h {
+  background-image: url(images/bg-2.png);
+  background-repeat: no-repeat;
+}
+.see {
+  color: orange;
+  text-decoration: none;
+  border: none;
+  background: none;
+  float: right;
+}
