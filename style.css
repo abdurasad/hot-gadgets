@@ -19,3 +19,10 @@
   background: none;
   float: right;
 }
+h2 {
+  text-align: center;
+  padding-top: 50px;
+}
+.lang {
+  background-color: red;
+}
